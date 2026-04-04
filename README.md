@@ -18,8 +18,8 @@ Este proyecto es una solución integral para la automatización de ingesta de da
 ## 🚀 Cómo empezar
 
 ### Requisitos
-* Docker y Docker Compose.
-* JDK 17 o superior.
+* Docker.
+* JDK 21 o superior.
 * Maven.
 
 ### Instalación
